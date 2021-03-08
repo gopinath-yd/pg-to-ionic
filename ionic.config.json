@@ -1,0 +1,7 @@
+{
+  "name": "pg-to-ionic",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
